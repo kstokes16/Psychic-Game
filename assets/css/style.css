@@ -1,0 +1,36 @@
+/* psychic background image in the background */
+
+body {
+    background-image: url("../../assets/images/neon-psychic.jpeg");
+   }
+
+/* moves the container down from the top of the page */
+
+.container {
+    margin-top: 5%;
+}
+
+/* styling for the "Psychic Game" header. Grabbed the color from Photoshop eyedropper tool */
+
+h1 {
+    color: #f69476;
+    margin-left: 2%;
+    font-weight: bold;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Courgette', cursive;
+    font-family: 'Great Vibes', cursive;
+}
+
+.guess-here {
+    color: white;
+    text-decoration: underline;
+    margin-left: 2%;
+}
+
+/* grabbed the blue using the Phtoshop eyedropper tool */
+
+#wins, #losses, #guesses-so-far, #guesses-left {
+    color: #72b4fc;
+    margin-left: 2%;
+}
