@@ -20,6 +20,7 @@ h1 {
     font-family: 'Dancing Script', cursive;
     font-family: 'Courgette', cursive;
     font-family: 'Great Vibes', cursive;
+    border: 5px #72b4fc solid
 }
 
 .guess-here {
